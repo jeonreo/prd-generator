@@ -1,2 +1,8 @@
 appsettings.Development.json
 .env
+
+bin/
+obj/
+.vs/
+*.user
+*.suo
