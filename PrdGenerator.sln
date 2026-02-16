@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrdGenerator", "PrdGenerator.csproj", "{9340651A-EAFA-87D3-E9DB-AF2096E0FADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9340651A-EAFA-87D3-E9DB-AF2096E0FADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9340651A-EAFA-87D3-E9DB-AF2096E0FADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9340651A-EAFA-87D3-E9DB-AF2096E0FADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9340651A-EAFA-87D3-E9DB-AF2096E0FADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {681ED413-45E7-4F87-BB96-D3D8F0D3247A}
+	EndGlobalSection
+EndGlobal
